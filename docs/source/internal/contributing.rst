@@ -68,6 +68,8 @@ All bug reports about checks should go to their respective projects:
 
 - Error codes starting with ``C`` should be reported to `mccabe`_
 
+- Error codes starting with ``S`` should be reported to `flake8-simplify <https://github.com/MartinThoma/flake8-simplify/>`
+
 
 Requesting a New Feature
 ========================
